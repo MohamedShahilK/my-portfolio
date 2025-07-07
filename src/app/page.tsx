@@ -1,4 +1,4 @@
-import Image from "next/image";
+// It is the home page
 
 export default function Home() {
   return (
